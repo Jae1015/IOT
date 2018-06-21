@@ -1,0 +1,12 @@
+Find the below mentioned Exercise:
+
+Q1. Write a program for sound sensor with the condition that when sound is detected then LED and buzzer should be ON.
+
+Q2.  Write a program for the condition that when sound and motion is detected then LED and buzzer should be ON.
+
+Q3. Write a program for traffic light implementations detecting four directions
+
+Q4. Write a program for the following conditions with touch sensor :
+when the sensor is touched a single time first LED should blink and beep sound, touch at second time second led should blink and beep sound, at third time third LED should blink and gain beep sound.
+
+Q5. Write a program to blink LED when there is Dark and to off the LED when there is light
